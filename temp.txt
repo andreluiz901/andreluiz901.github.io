@@ -1,0 +1,8 @@
+texto header 
+
+I am a Biomedical Scientist with a Master's degree in Microbiology and 7 years of experience, including bioinformatics and data science. 
+                    My expertise includes Python, Pandas, Numpy, Matplotlib, PyMol, Chimera UCSF, Phylogeny, Protein Structure, and Alphafold2. 
+                    I have a proven track record of analytical problem-solving, with published scientific papers and experience working in a respected research laboratory. 
+                    My clinical background in Clinical Pathology, Microbiology, Biochemistry, and Molecular Biology further strengthens my ability to understand complex biological processes. 
+                    I am seeking a challenging role in data science and bioinformatics, where I can leverage my skills to drive business operations excellence.
+                    
