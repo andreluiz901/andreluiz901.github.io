@@ -58,8 +58,8 @@ function cycleQuote() {
     showQuote(qi);
     qText.classList.remove('fading');
     qAttr.classList.remove('fading');
-  }, 650);
+  }, 580);
 }
 
 showQuote(0);
-setInterval(cycleQuote, 6000);
+setInterval(cycleQuote, 6500);
